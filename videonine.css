@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+            background-color: bisque;
+            margin: 20px;
+            padding: 10px;
+            border: 5px solid purple;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: larger;
+            font-weight: 1800;
+            font-style: italic;
+            text-decoration: dotted;
+            box-shadow: 10px 5px purple;
+        }
+        h5{
+            background-color: yellowgreen;
+            margin: 10px;
+            padding: 5px;
+            font-size: large;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-style: oblique;
+            text-align: center;
+            /* text-shadow: 10px; */
+            text-decoration: underline;
+        }
+        p{
+            margin: 10px;
+            padding: 5px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            text-align: justify;
+        }
+        .ordered{
+            margin: 10px;
+            padding: 5px;
+        }
+
+        li{
+            margin: 10px;
+            padding: 5px;
+        }
+
+        .button {
+            margin: 10px;
+            padding: 5px;
+        }
+        footer{
+            margin: 5px;
+            padding: 2px;
+        }
+
+        .pic{
+            /* background-size: 5px; */
+            /* margin: 10px;
+            
+            width: 50%;
+            /* background-size: cover;
+            background-repeat: repeat-x; */
+            /* background-position: right; */
+            /* background-position: center; */
+            
+            
+            
+            
+            margin: 20px 5px 10px;
+            padding: 15px;
+            height: 300px;
+            width: 300px;
+            background-image: url('/IMG_20250424_083044.jpg');
+            background-repeat: repeat;
+            background-size: auto;
+            background-position: center;
+            /* visibility: hidden; */
+
+        }
+        .fifth{
+            border: 10px solid lightblue;
+            border-radius: 130px;
+            
+
+        }
+        .fourth{
+            display: inline-block;
+
+        }
+
